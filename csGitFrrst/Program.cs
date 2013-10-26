@@ -10,7 +10,7 @@ namespace csGitFrrst
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Only firs project");
+            Console.WriteLine("Only firsT project");
 
             Console.ReadKey();
             //change online
