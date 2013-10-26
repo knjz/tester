@@ -1,3 +1,3 @@
 tester
 ======
-first test profect for the many PC
+first test project for the many PC
