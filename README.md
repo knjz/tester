@@ -1,6 +1,3 @@
 tester
 ======
-
-tester c# projects
-
-проэкт ведется...
+first test profect for the many PC

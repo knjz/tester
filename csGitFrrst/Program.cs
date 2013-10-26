@@ -10,15 +10,7 @@ namespace csGitFrrst
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Тест первый шарп проэкт на гите...");
-            Console.WriteLine("Немного чтото поменял второй шаг.");
-
-            for (int i = 0; i < 34; i++)
-            {
-                Console.WriteLine(i);
-            }
-
-            //добавил на мастере
+            Console.WriteLine("Only firs project");
 
             Console.ReadKey();
         }

@@ -10,3 +10,9 @@ S:\Programming\Projects\csGitFrrst\csGitFrrst\obj\Debug\csGitFrrst.pdb
 S:\Programming\Projects\csGitFrrst\csGitFrrst\bin\Debug\csGitFrrst.exe
 S:\Programming\Projects\csGitFrrst\csGitFrrst\bin\Debug\csGitFrrst.pdb
 S:\Programming\Projects\csGitFrrst\csGitFrrst\obj\Debug\csGitFrrst.csprojResolveAssemblyReference.cache
+S:\Programming\Projects\tester\csGitFrrst\bin\Debug\csGitFrrst.exe.config
+S:\Programming\Projects\tester\csGitFrrst\obj\Debug\csGitFrrst.exe
+S:\Programming\Projects\tester\csGitFrrst\obj\Debug\csGitFrrst.pdb
+S:\Programming\Projects\tester\csGitFrrst\bin\Debug\csGitFrrst.exe
+S:\Programming\Projects\tester\csGitFrrst\bin\Debug\csGitFrrst.pdb
+S:\Programming\Projects\tester\csGitFrrst\obj\Debug\csGitFrrst.csprojResolveAssemblyReference.cache
