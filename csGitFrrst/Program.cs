@@ -13,6 +13,7 @@ namespace csGitFrrst
             Console.WriteLine("Only firs project");
 
             Console.ReadKey();
+            //change online
         }
     }
 }
