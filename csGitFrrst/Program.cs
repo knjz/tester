@@ -11,6 +11,7 @@ namespace csGitFrrst
         static void Main(string[] args)
         {
             Console.WriteLine("Only firsT project");
+            Console.WriteLine("Razrab");
 
             Console.ReadKey();
             //change online
